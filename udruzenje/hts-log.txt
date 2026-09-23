@@ -1,0 +1,11 @@
+HTTrack3.50-2 launched on Wed, 23 Sep 2026 13:39:24 at https://vladomik0706-majvevicka-kosnicaug.editor.wix.com/edit/od/7e6983f2-6d8d-43be-8d0a-2c179b3d7259?metaSiteId=0b98f8d7-21b6-4e15-bd19-191377ffd797&referralInfo=dashboard-setup +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "hr, en, *" https://vladomik0706-majvevicka-kosnicaug.editor.wix.com/edit/od/7e6983f2-6d8d-43be-8d0a-2c179b3d7259?metaSiteId=0b98f8d7-21b6-4e15-bd19-191377ffd797&referralInfo=dashboard-setup -O1 "C:\Moji spletni sadržaji\udruzenje" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:39:26	Info: 	Note: due to https://users.wix.com remote robots.txt rules, links beginning with these path will be forbidden: / (see in the options to disable this)
+13:39:26	Error: 	"Error when decompressing (gzip)" (-1) at link https://users.wix.com/signin?redirectTo=https%3A%2F%2Fusers.wix.com%2Fv1%2Foauth%2Fauthorize%3Fclient_id%3D7c8f9483-487c-4e84-a32f-631071371f6a%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fvladomik0706-majvevicka-kosnicaug.editor.wix.com%252Foauth2%252Fcallback%26scope%3Dsession_bound_access%26state%3DaHR0cHM6Ly92bGFkb21pazA3MDYtbWFqdmV2aWNrYS1rb3NuaWNhdWcuZWRpdG9yLndpeC5jb20vZWRpdC9vZC83ZTY5ODNmMi02ZDhkLTQzYmUtOGQwYS0yYzE3OWIzZDcyNTk_bWV0YVNpdGVJZD0wYjk4ZjhkNy0yMWI2LTRlMTUtYmQxOS0xOTEzNzdmZmQ3OTcmcmVmZXJyYWxJbmZvPWRhc2hib2FyZC1zZXR1cA%26meta_site_id%3D0b98f8d7-21b6-4e15-bd19-191377ffd797 (from primary/primary)
+13:39:26	Warning: 	No data seems to have been transferred during this session! : restoring previous one!

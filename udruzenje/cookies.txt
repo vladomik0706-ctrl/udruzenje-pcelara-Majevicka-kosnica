@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+vladomik0706-majvevicka-kosnicaug.editor.wix.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.wix.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1790163565|y4uXnoRhG4TZ
+.wix.com	TRUE	/	FALSE	1999999999	_wixUIDX	null-user-id
+.wix.com	TRUE	/	FALSE	1999999999	wixLanguage	en
+.wix.com	TRUE	/	FALSE	1999999999	_wixCIDX	77913262-67c7-4f42-af21-1474afc5bb0a
+.wix.com	TRUE	/	FALSE	1999999999	_wix_browser_sess	f9e7f3c4-538e-40c3-ac19-73756a9da646
+users.wix.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
